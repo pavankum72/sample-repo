@@ -18,3 +18,4 @@ print(total/oneguidecost )
 print(type(a))
 print(type(total))
 print(type(name))
+ars project
